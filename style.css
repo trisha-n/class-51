@@ -1,0 +1,31 @@
+h1{color:blue;
+    text-decoration-line:underline ;
+    text-decoration-style: dashed;
+}
+*{border:solid}
+.header{
+    background-color:#FFEBCD;
+    display:flex;
+    justify-content:space-around;
+    border-style:dashed;
+    cursor:progress;
+
+}
+.menu{
+    cursor:wait;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: #808080;
+}
+.me{
+    background-color: #ff7f50;
+}
